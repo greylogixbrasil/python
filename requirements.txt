@@ -1,3 +1,4 @@
+aiocsv
 aiohttp
 celery
 dash
