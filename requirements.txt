@@ -1,3 +1,4 @@
+aiohttp
 celery
 dash
 dash-iconify
