@@ -3,11 +3,17 @@ dash
 dash-iconify
 dash-mantine-components==0.13.0a3
 email-validator
+fastparquet
+feature-engine
+google-cloud-storage
 gunicorn
+igraph
 influxdb-client
+kaleido
 pandas
 plotly
 prophet
 redis
 scikit-learn
+statsmodels
 XlsxWriter
