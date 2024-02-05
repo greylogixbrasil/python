@@ -2,6 +2,7 @@ celery
 dash
 dash-iconify
 dash-mantine-components==0.13.0a3
+email-validator
 gunicorn
 influxdb-client
 pandas
