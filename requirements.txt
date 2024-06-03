@@ -114,3 +114,4 @@ wheel==0.42.0
 XlsxWriter==3.1.9
 yarl==1.9.4
 zipp==3.17.0
+tslearn==0.6.3
